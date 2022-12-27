@@ -17,7 +17,11 @@ class ViewController: UIViewController {
         
         print("Vika tsypa")
         
+        print("Bug fix")
         
+        func bugFixFunc() {
+            print("bugFix func")
+        }
     }
 
 
